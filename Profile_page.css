@@ -1,0 +1,244 @@
+.nav {
+    width: 100%;
+    height: 80px;
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+
+}
+
+.home {
+    color: aliceblue;
+    /* margin: 10px 500px; */
+
+}
+
+.nav-title {
+    color: white;
+
+
+
+}
+
+.btn {
+
+    color: white;
+    background-color: #17a2b8;
+    border: 2px solid black;
+
+
+
+}
+
+.active {
+    text-decoration: solid;
+    color: whitesmoke;
+
+}
+
+li a {
+    font-weight: 400;
+    color: rgb(202, 199, 199);
+    text-decoration: none;
+}
+
+.container {
+    width: 25%;
+    margin-top: 50px;
+    margin-left: 15%;
+    height: fit-content;
+}
+
+
+.color {
+    width: 100%;
+    height: 90px;
+    background-color: #17a2b8;
+    margin-right: 500px;
+
+}
+
+
+
+.content {
+    border: 1px solid grey;
+    transform: translateY(-70px);
+    padding: 30px;
+    border-top: none !important;
+}
+
+.userCircle {
+    width: 30%;
+    height: auto;
+    /* margin-top: 40px; */
+    transform: translateY(0px);
+}
+
+.gear {
+    width: 3%;
+    padding: 0px 3px 0px 0px;
+
+}
+
+.map {
+    width: 3%;
+    text-decoration: none;
+}
+
+.big-container {
+    display: flex;
+
+    margin: 0 auto;
+}
+
+.education {
+    width: 101%;
+    height: 30px;
+    background: #333333;
+}
+
+.connection {
+    width: 10px;
+    height: 30px;
+    background-color: #333333;
+
+}
+
+.header-edu {
+    width: 315px;
+    height: 25px;
+    color: white;
+    background-color: #333333;
+    padding: 0px 0px 0px 20px;
+    align-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.info-edu { 
+    border: 1px solid  #333333;
+    padding-left: 15px;
+}
+
+#font{
+    color: #8a8989;
+}
+
+
+.big-div{
+    display: flex;
+}
+.request{
+    width: 300px;
+    height: 50px;
+    background-color: #333333;
+    color: rgb(239, 234, 234);
+    margin-right: 10%;
+    align-content: center;
+    text-align: left;
+    
+}
+.container2{
+    width: 100px;
+    height: 30px;
+    margin: 50px 0px 0px 50px;
+}
+.todd{
+    display:flex;
+    gap: 50px;
+    padding: 10px 0 0 0 ;
+    
+
+}
+.phil{
+    display: flex;
+    gap: 50px;
+    padding:10px 0 0 0;
+
+}
+.container3{
+    width: 500px;
+    height: 10px;
+    margin: 50px 0px 0px 50px;
+    display:flex;
+    flex-direction: column;
+    
+    
+
+}
+.yourconnection{
+    width: 60%;
+    height: 50px;
+    background-color: #333333;
+    color: rgb(239, 234, 234);
+    margin: 50px 30px 0px -50px  ;
+    align-content: center;
+    text-align: center;
+
+
+
+    
+
+}   
+.pfp{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 20px;
+}  
+.adrien{
+    display:flex;
+    margin: 10px 400px 0px -30px;
+
+}
+
+.yesno{
+    width: 30px;
+    height: 30px;
+    display:flex;
+    margin-left: -30px;
+
+}
+  
+.d-flex{
+    display: flex;
+}
+
+.todElement{
+    align-items: center;
+}
+
+
+.todd{
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid black;
+    width: 300px;
+    top:0px
+}
+
+.justify_spaceBetween{
+    justify-content: space-between;
+}
+
+.circle{
+    background-color: lightgray;
+    border-radius: 50%;
+    padding: 5px 10px;
+    color: black;
+    margin: 20px;
+}
+.border1{
+    border: 1px solid black;
+    padding: 1px;
+}
+
